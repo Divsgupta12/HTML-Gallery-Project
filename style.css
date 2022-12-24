@@ -1,0 +1,36 @@
+main{
+    margin-top: 150px;  
+}
+main img{
+    height: 200px;
+    width: 200px;
+}
+.footer_logo{
+    position: relative;
+    justify-content: center;
+    top: 50px;
+    width: 400px;
+    height: 300px;
+}
+.footer_logo img{
+    width: 200px;
+    height: 200px;
+}
+.developer_profile{
+    position: relative;
+    justify-content: center;
+    top: 50px;
+    width: 400px;
+    height: 300px;
+}
+.developer_profile img{
+    width: 200px;
+    height: 200px;
+}
+.developer_details{
+    position: relative;
+    justify-content: center;
+    top: 50px;
+    width: 400px;
+    height: 300px;
+}
